@@ -2,6 +2,8 @@
 
 This is a project that allows users to add, update and delete feedback. Building with React and it uses a mock REST api with json-server.
 
+![picture of the app](./example.PNG)
+
 This project goes over all of the fundamentals of React including...
 
 - Components
